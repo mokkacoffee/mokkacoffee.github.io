@@ -33,17 +33,12 @@
       "items": [
         {
           "category": 19,
-          "image":"https://orders.mokka.coffee/app-media/slide1.jpg",
+          "image":"https://orders.mokka.coffee/app-media/slide-fazente.jpg",
           "padding": 15.0
         },
         {
-          "category": 18,
-          "image": "https://orders.mokka.coffee/app-media/slide2.jpg",
-          "padding": 15.0
-        },
-        {
-          "product": 18,
-          "image":"https://orders.mokka.coffee/app-media/slide3.jpg",
+          "category": 19,
+          "image": "https://orders.mokka.coffee/app-media/slide-moplaco.jpg",
           "padding": 15.0
         }
       ]
