@@ -34,12 +34,14 @@
         {
           "category": 19,
           "image":"https://orders.mokka.coffee/app-media/slide-fazente.jpg",
-          "padding": 15.0
+          "padding": 15.0,
+          "radius": 9.0
         },
         {
           "category": 19,
           "image": "https://orders.mokka.coffee/app-media/slide-moplaco.jpg",
-          "padding": 15.0
+          "padding": 15.0,
+          "radius": 9.0
         }
       ]
     },
